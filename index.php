@@ -42,6 +42,15 @@ if(isset($_POST['post'])){
 
 	</div>
 
+
+
+
+
+
+
+	<!-- UNDER-CONSTRUCTION -->
+
+<!-- 	
 	<script>
 	var userLoggedIn = '<?php echo $userLoggedIn; ?>';
 
@@ -95,7 +104,9 @@ if(isset($_POST['post'])){
 
 	});
 
-	</script>
+	</script> -->
+
+	
 
 
 

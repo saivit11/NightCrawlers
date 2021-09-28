@@ -149,7 +149,7 @@ textarea:focus {
 	min-height: 75px;
 	cursor:pointer;
 }
-
+/* 
 .post_profile_pic {
 	float: left;
 	margin-right: 7px;
@@ -223,7 +223,7 @@ textarea:focus {
 .like_value {
 	display: inline;
 	font-size: 14px;
-}
+} */
 
 .profile_left {
 	top: -10px;
@@ -399,7 +399,7 @@ textarea:focus {
 #grey {
 	color: #8C8C8C;
 }
-
+/* 
 .resultDisplay {
 	padding: 5px 5px 0 5px;
 	height: 60px;
@@ -428,7 +428,7 @@ textarea:focus {
 	margin-left: 10px;
 	font-size: 12px;
 }
-
+ */
 .tab-content {
 	margin-top: 25px;
 }
